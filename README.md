@@ -1,2 +1,2 @@
 # SE_GROUP_20
-Overview of Software Engineering - Group 20 Repository
+Nishtha Singh, ga23124@bristol.ac.uk, ananishtha98
